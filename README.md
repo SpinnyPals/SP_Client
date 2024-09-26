@@ -1,2 +1,2 @@
 # SP_Client
-"Spinny Pals" io 게임의 Client
+"Spinny Pals" io 게임 Client
